@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decisions", "Decisions\Deci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForIteration", "ForIteration\ForIteration.csproj", "{167DA1DC-5C56-4E91-A749-EC751F75A40E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingArrays", "UnderstandingArrays\UnderstandingArrays.csproj", "{15150B2B-D1D2-4A50-B736-AAB78CC8030C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethod", "SimpleMethod\SimpleMethod.csproj", "{84AF24C1-39B4-415E-B439-19E752C53718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{167DA1DC-5C56-4E91-A749-EC751F75A40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{167DA1DC-5C56-4E91-A749-EC751F75A40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{167DA1DC-5C56-4E91-A749-EC751F75A40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15150B2B-D1D2-4A50-B736-AAB78CC8030C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15150B2B-D1D2-4A50-B736-AAB78CC8030C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15150B2B-D1D2-4A50-B736-AAB78CC8030C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15150B2B-D1D2-4A50-B736-AAB78CC8030C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AF24C1-39B4-415E-B439-19E752C53718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AF24C1-39B4-415E-B439-19E752C53718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AF24C1-39B4-415E-B439-19E752C53718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AF24C1-39B4-415E-B439-19E752C53718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
