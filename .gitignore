@@ -1,0 +1,16 @@
+bin/
+obj/
+/packages/
+/dist/
+riderModule.iml
+/_ReSharper.Caches/
+
+# External Libraries
+**/wwwroot/lib/
+
+# MacOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
