@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{76EFF74B-2AD0-434E-86D8-4E05ABF21925}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{AF80B4AC-760B-4728-A74C-BB8E0D7E6288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decisions", "Decisions\Decisions.csproj", "{51262860-D07F-455A-B2F1-BB0A500C8C1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{76EFF74B-2AD0-434E-86D8-4E05ABF21925}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76EFF74B-2AD0-434E-86D8-4E05ABF21925}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76EFF74B-2AD0-434E-86D8-4E05ABF21925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF80B4AC-760B-4728-A74C-BB8E0D7E6288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF80B4AC-760B-4728-A74C-BB8E0D7E6288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF80B4AC-760B-4728-A74C-BB8E0D7E6288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF80B4AC-760B-4728-A74C-BB8E0D7E6288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51262860-D07F-455A-B2F1-BB0A500C8C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51262860-D07F-455A-B2F1-BB0A500C8C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51262860-D07F-455A-B2F1-BB0A500C8C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51262860-D07F-455A-B2F1-BB0A500C8C1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
