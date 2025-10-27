@@ -10,5 +10,3 @@ Run the program with your question as a parameter:
 ```bash 
   dotnet run 
 ```
-
-Enjoy!

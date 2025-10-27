@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic8Ball", "Magic8Ball\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileIteration", "WhileIteration\WhileIteration.csproj", "{DBBF92CD-B7AE-4ED5-9190-B12875089295}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{50080567-568F-4B51-B069-255B6290B048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{DBBF92CD-B7AE-4ED5-9190-B12875089295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBBF92CD-B7AE-4ED5-9190-B12875089295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBBF92CD-B7AE-4ED5-9190-B12875089295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50080567-568F-4B51-B069-255B6290B048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50080567-568F-4B51-B069-255B6290B048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50080567-568F-4B51-B069-255B6290B048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50080567-568F-4B51-B069-255B6290B048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
