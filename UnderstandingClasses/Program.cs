@@ -14,6 +14,7 @@ class Program
         decimal value = DetermineMarketValue(myCar);
         
         Console.WriteLine($"{myCar.Make} {myCar.Model} made in {myCar.Year} colored {myCar.Color}. Value: {value:C}");
+        Console.WriteLine($"{myCar.Make} {myCar.Model} made in {myCar.Year} colored {myCar.Color}. Value: {myCar.DetermineMarketValue():C}");
     }
     
     private static decimal DetermineMarketValue(Car car)
@@ -38,6 +39,22 @@ class Car
     {
         get { return myVar; }
         set { myVar = value; }
+    }
+
+    public decimal DetermineMarketValue()
+    {
+        decimal carValue;
+
+        if (Year > 1990)
+        {
+            carValue = 10000;
+        }
+        else
+        {
+            carValue = 2000;
+        }
+        
+        return carValue;
     }
 }
 
