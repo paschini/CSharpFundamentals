@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "Worki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingClasses", "UnderstandingClasses\UnderstandingClasses.csproj", "{9DF7BE31-ACEA-4A1D-A12E-63E9E3AAE16B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF7BE31-ACEA-4A1D-A12E-63E9E3AAE16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF7BE31-ACEA-4A1D-A12E-63E9E3AAE16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF7BE31-ACEA-4A1D-A12E-63E9E3AAE16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF7BE31-ACEA-4A1D-A12E-63E9E3AAE16B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
