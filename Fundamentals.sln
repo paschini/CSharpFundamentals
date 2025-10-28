@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingClasses", "Und
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifetime", "ObjectLifetime\ObjectLifetime.csproj", "{4858ABFE-F962-4AA8-AC8F-54F913F8CB26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingScope", "UnderstandingScope\UnderstandingScope.csproj", "{DB5D795A-BA37-421D-859D-D38B904D18D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{4858ABFE-F962-4AA8-AC8F-54F913F8CB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4858ABFE-F962-4AA8-AC8F-54F913F8CB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4858ABFE-F962-4AA8-AC8F-54F913F8CB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5D795A-BA37-421D-859D-D38B904D18D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5D795A-BA37-421D-859D-D38B904D18D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5D795A-BA37-421D-859D-D38B904D18D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5D795A-BA37-421D-859D-D38B904D18D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
