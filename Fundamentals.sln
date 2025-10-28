@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileIteration", "WhileIter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{50080567-568F-4B51-B069-255B6290B048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{50080567-568F-4B51-B069-255B6290B048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50080567-568F-4B51-B069-255B6290B048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50080567-568F-4B51-B069-255B6290B048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD928247-3E59-46EF-8DA4-6B462ADA3BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
