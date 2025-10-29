@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCollections", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsAndSwitchStatus", "EnumsAndSwitchStatus\EnumsAndSwitchStatus.csproj", "{88ACB7BE-5464-4EA4-8661-31EC907A351A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithLINQ", "WorkingWithLINQ\WorkingWithLINQ.csproj", "{7E94FB96-D241-4928-9151-C80407365C37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{88ACB7BE-5464-4EA4-8661-31EC907A351A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88ACB7BE-5464-4EA4-8661-31EC907A351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88ACB7BE-5464-4EA4-8661-31EC907A351A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E94FB96-D241-4928-9151-C80407365C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E94FB96-D241-4928-9151-C80407365C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E94FB96-D241-4928-9151-C80407365C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E94FB96-D241-4928-9151-C80407365C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

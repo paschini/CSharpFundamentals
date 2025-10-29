@@ -69,7 +69,7 @@ class Program
         Car car3 = new Car() { Make = "BMW", Model = "M3", Year = 2022, Color = "Red" };
         
         // Collection initializer syntax
-        List<Car> myList = new List<Car>()
+        List<Car> myList2 = new List<Car>()
         {
             new Car { Make = "BMW", Model = "M3", Year = 2022, Color = "Red" },
             // new Car { car1 } // <--- this doenst go though
