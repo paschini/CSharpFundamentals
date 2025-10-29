@@ -19,7 +19,7 @@ class Program
 
         Console.ReadLine();
         
-        // skipped the part with WPF cuz MaacOS
+        // skipped the part with WPF cuz macOS
     }
     
     private static void MyTimer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
