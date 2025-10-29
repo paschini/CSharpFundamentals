@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsAndSwitchStatus", "Enu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithLINQ", "WorkingWithLINQ\WorkingWithLINQ.csproj", "{7E94FB96-D241-4928-9151-C80407365C37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerExample", "TimerExample\TimerExample.csproj", "{FF51647B-F68A-4FAD-95F2-0FA0ABCA3792}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{7E94FB96-D241-4928-9151-C80407365C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E94FB96-D241-4928-9151-C80407365C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E94FB96-D241-4928-9151-C80407365C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF51647B-F68A-4FAD-95F2-0FA0ABCA3792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF51647B-F68A-4FAD-95F2-0FA0ABCA3792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF51647B-F68A-4FAD-95F2-0FA0ABCA3792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF51647B-F68A-4FAD-95F2-0FA0ABCA3792}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
